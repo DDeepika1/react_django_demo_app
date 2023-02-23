@@ -1,0 +1,7 @@
+version: "3"
+
+service:
+   web:
+     build:
+     ports:
+       - "8001:8001"
